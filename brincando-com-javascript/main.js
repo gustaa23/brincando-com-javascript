@@ -18,7 +18,7 @@ function load(){
     alert("pagina carregada");
 }
 
-functionfuncaoChange(elemento){
+function funcaoChange(elemento){
     console.log(elemento.value);
 }
 /*
